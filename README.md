@@ -20,7 +20,7 @@
 
 <!-- Title -->
 <h1 align="center">
-  Social Physics Project
+  EgoGraphProject
 </h1>
 
 <!-- Subtitle -->
