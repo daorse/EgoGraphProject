@@ -46,7 +46,7 @@
 </h2>
 
 | Name  | GitHub |
-|:-----|:-----|:-----|
+|:-----|:-----|
 | Monticone Pietro | [@pitmonticone](https://github.com/pitmonticone) |
 | Moroni Claudio | [@claudio20497](https://github.com/claudio20497) |
 | Orsenigo Davide | [@daorse](https://github.com/daorse) |
